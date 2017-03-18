@@ -17,7 +17,7 @@ of the task will be put in the input element, and at the end of the text will ob
 4.Any one task can be marked as completed by clicking checkbox.
 每一条任务都可以用过勾选来表示已经完成。
 
-5.Above the task list, there will be " Still n tasks to go ". n will be unfullfilled task in list.
+5.Above the task list, there will be " Still n tasks to go ". n will be unfulfilled task in list.
 任务列表上方，会显示“还有n条任务未完成”。
 
 6.When there is no task in list, there will be a sign saying "Please input some task to do ".
